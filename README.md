@@ -6,6 +6,6 @@ It aims to:
 2. Spot problematic bike stations which are clearly under- or overutilized
 
 The latter is mostly discovered with interactive data visualization
-![Scooters' activity](/Users/anastasia/UH/Intro_DS/project/pics/scooters.png)
-![Bikes' activity](/Users/anastasia/UH/Intro_DS/project/pics/bikes.png)
-![Problematic stations](/Users/anastasia/UH/Intro_DS/project/pics/probl_st.png)
+![Scooters' activity](scooters.png)
+![Bikes' activity](bikes.png)
+![Problematic stations](probl_st.png)
